@@ -154,8 +154,8 @@ Please get back to me at your earliest convenience. Thank you!`
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "123 Business Street",
-      subDetails: "New York, NY 10001",
+      details: "Shapoorji Pallonji Complex",
+      subDetails: "New Town Kolkata, West Bengal 700135",
     },
     {
       icon: Clock,

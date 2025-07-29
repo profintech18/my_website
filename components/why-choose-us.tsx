@@ -246,9 +246,7 @@ export default function WhyChooseUs() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <div className="flex items-center space-x-2">
                 <div className="flex -space-x-2">
-                  {[1, 2, 3, 4].map((i) => (
-                    <div key={i} className="w-8 h-8 bg-blue-400 rounded-full border-2 border-white"></div>
-                  ))}
+                  
                 </div>
                 <span className="text-sm">500+ Happy Clients</span>
               </div>

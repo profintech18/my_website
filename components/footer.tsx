@@ -93,8 +93,8 @@ export default function Footer() {
                 <span className="text-gray-400">+91 82100 41963</span>
               </div>
               <div className="flex items-center space-x-3">
-                <MapPin className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-400">123 Business Street, NY 10001</span>
+                <MapPin className="h-10 w-10 text-blue-400" />
+                <span className="text-gray-400">Shapoorji Pallonji Complex, New Town Kolkata, West Bengal 700135</span>
               </div>
             </div>
           </div>

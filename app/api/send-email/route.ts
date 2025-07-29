@@ -133,7 +133,7 @@ const getUserEmailTemplate = (formData: any) => {
         <div class="footer">
           <p>This is an automated confirmation email. Please do not reply to this email.</p>
           <p>If you have any questions, please contact us directly at Profintech18@gmail.com</p>
-          <p>Terms and Conditions apply. Visit our <a href="https://www.profintech.com/terms" target="_blank">Terms Page</a> for more details.</p>
+          <p>Terms and Conditions apply. Visit our <a href="https://profintech.vercel.app/terms" target="_blank">Terms Page</a> for more details.</p>
         </div>
       </div>
     </body>
