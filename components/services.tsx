@@ -264,7 +264,7 @@ export default function Services() {
         {/* ADDITIONAL SERVICES */}
         <div className="mt-16 bg-gradient-to-r from-blue-50 to-purple-50 rounded-2xl p-8 relative overflow-hidden">
           <div className="absolute inset-0 opacity-5">
-            <img src="/service.jpg" alt="Background" className="w-full h-full object-cover" />
+            <img src="/contact.jpg" alt="Background" className="w-full h-full object-cover" />
           </div>
           <div className="relative z-10">
             <div className="text-center mb-8">
