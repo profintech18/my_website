@@ -50,39 +50,7 @@ export default function WhyChooseUs() {
     },
   ]
 
-  // Happy clients images - Updated with professional headshots
-  const clientImages = [
-    {
-      src: "/images/client-1.png",
-      alt: "Sarah Johnson, CEO of TechStart Inc.",
-      name: "Sarah J.",
-    },
-    {
-      src: "/images/client-2.png",
-      alt: "Michael Chen, Founder of Digital Solutions",
-      name: "Michael C.",
-    },
-    {
-      src: "/images/client-3.png",
-      alt: "Emma Rodriguez, Marketing Director",
-      name: "Emma R.",
-    },
-    {
-      src: "/images/client-4.png",
-      alt: "David Thompson, Business Owner",
-      name: "David T.",
-    },
-    {
-      src: "/images/client-5.png",
-      alt: "Priya Patel, Startup Founder",
-      name: "Priya P.",
-    },
-    {
-      src: "/images/client-6.png",
-      alt: "James Wilson, Enterprise Client",
-      name: "James W.",
-    },
-  ]
+
 
   const nextSlide = () => {
     setCurrentSlide((prev) => (prev + 1) % benefits.length)
@@ -245,10 +213,8 @@ export default function WhyChooseUs() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <div className="flex items-center space-x-2">
-                <div className="flex -space-x-2">
-                  
-                </div>
-                <span className="text-sm">500+ Happy Clients</span>
+                
+                <span className="text-sm">1000+ Happy Clients</span>
               </div>
               <div className="flex items-center space-x-1">
                 {[1, 2, 3, 4, 5].map((i) => (

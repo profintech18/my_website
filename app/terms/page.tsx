@@ -414,7 +414,7 @@ export default function TermsAndConditions() {
                           <Globe className="h-4 w-4 text-green-600 mr-3 mt-1" />
                           <div className="text-gray-600">
                             <p>ProFintech</p>
-                            <p>Shapoorji Pallonji Complex</p>
+                            <p>Shapoorji Pallonji Complex,</p>
                             <p>New Town Kolkata, West Bengal 700135</p>
                           </div>
                         </div>
@@ -427,7 +427,6 @@ export default function TermsAndConditions() {
               {/* Footer Actions */}
               <div className="mt-12 pt-8 border-t border-gray-200">
                 <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
-                  <p className="text-sm text-gray-500">Last updated: January 2024 | Version 2.1</p>
                   <div className="flex space-x-4">
                     <Button onClick={scrollToTop} variant="outline">
                       Back to Top

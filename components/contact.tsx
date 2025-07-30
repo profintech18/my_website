@@ -154,14 +154,14 @@ Please get back to me at your earliest convenience. Thank you!`
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "Shapoorji Pallonji Complex,",
+      details: "Shapoorji Pallonji Complex",
       subDetails: "New Town Kolkata, West Bengal, 700135",
     },
     {
       icon: Clock,
       title: "Business Hours",
       details: "Mon - Fri: 9:00 AM - 6:00 PM",
-      subDetails: "Sat - Sun: 10:00 AM - 4:00 PM",
+      subDetails: "Sat - Sun: 11:00 AM - 4:00 PM",
     },
   ]
 
