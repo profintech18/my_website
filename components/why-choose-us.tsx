@@ -245,10 +245,16 @@ export default function WhyChooseUs() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <div className="flex items-center space-x-2">
-                <div className="flex -space-x-2">
-                  
-                </div>
-                <span className="text-sm">500+ Happy Clients</span>
+                {clientImages.map((client, index) => (
+                  <img
+                    key={index}
+                    src={client.src}
+                    alt={client.alt}
+                    className="w-10 h-10 rounded-full border-2 border-white shadow-sm"
+                    title={client.name}
+                  />
+                ))}
+                <span className="text-sm">1000+ Happy Clients</span>
               </div>
               <div className="flex items-center space-x-1">
                 {[1, 2, 3, 4, 5].map((i) => (
