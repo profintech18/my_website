@@ -32,13 +32,12 @@ export default function TermsAndConditions() {
             </Button>
             <h1 className="text-4xl sm:text-5xl font-bold mb-6">Terms & Conditions</h1>
             <p className="text-xl text-blue-100 leading-relaxed">
-              Please read these terms and conditions carefully before using our services. By engaging with BusinessCorp,
+              Please read these terms and conditions carefully before using our services. By engaging with ProFintech,
               you agree to be bound by these terms.
             </p>
             <div className="mt-8 flex items-center justify-center space-x-6 text-sm">
               <div className="flex items-center">
                 <FileText className="h-4 w-4 mr-2" />
-                <span>Last Updated: January 2024</span>
               </div>
               <div className="flex items-center">
                 <Shield className="h-4 w-4 mr-2" />
@@ -103,12 +102,12 @@ export default function TermsAndConditions() {
                   </h2>
                   <div className="prose prose-gray max-w-none">
                     <p className="text-gray-600 leading-relaxed mb-4">
-                      By accessing and using the services provided by BusinessCorp ("Company", "we", "us", or "our"),
+                      By accessing and using the services provided by ProFintech ("Company", "we", "us", or "our"),
                       you ("Client", "you", or "your") acknowledge that you have read, understood, and agree to be bound
                       by these Terms and Conditions.
                     </p>
                     <p className="text-gray-600 leading-relaxed">
-                      These terms constitute a legally binding agreement between you and BusinessCorp. If you do not
+                      These terms constitute a legally binding agreement between you and ProFintech. If you do not
                       agree with any part of these terms, you must not use our services.
                     </p>
                   </div>
@@ -124,7 +123,7 @@ export default function TermsAndConditions() {
                   </h2>
                   <div className="prose prose-gray max-w-none">
                     <p className="text-gray-600 leading-relaxed mb-4">
-                      BusinessCorp provides comprehensive business solutions including but not limited to:
+                      ProFintech provides comprehensive business solutions including but not limited to:
                     </p>
                     <div className="grid md:grid-cols-2 gap-4 mb-6">
                       <div className="bg-gray-50 p-4 rounded-lg">
@@ -273,7 +272,7 @@ export default function TermsAndConditions() {
                       </p>
                     </div>
                     <p className="text-gray-600 leading-relaxed mb-4">
-                      BusinessCorp agrees to maintain strict confidentiality regarding all client information,
+                      ProFintech agrees to maintain strict confidentiality regarding all client information,
                       documents, and business affairs. We will not disclose any confidential information to third
                       parties without your explicit written consent, except as required by law.
                     </p>
@@ -300,7 +299,7 @@ export default function TermsAndConditions() {
                       </p>
                     </div>
                     <p className="text-gray-600 leading-relaxed mb-4">
-                      BusinessCorp's liability is limited to the fees paid for the specific service in question. We
+                      ProFintech's liability is limited to the fees paid for the specific service in question. We
                       shall not be liable for any indirect, incidental, special, consequential, or punitive damages.
                     </p>
                     <p className="text-gray-600 leading-relaxed mb-4">
@@ -414,9 +413,9 @@ export default function TermsAndConditions() {
                         <div className="flex items-start">
                           <Globe className="h-4 w-4 text-green-600 mr-3 mt-1" />
                           <div className="text-gray-600">
-                            <p>BusinessCorp</p>
-                            <p>123 Business Street</p>
-                            <p>New York, NY 10001</p>
+                            <p>ProFintech</p>
+                            <p>Shapoorji Pallonji Complex</p>
+                            <p>New Town Kolkata, West Bengal 700135</p>
                           </div>
                         </div>
                       </div>
